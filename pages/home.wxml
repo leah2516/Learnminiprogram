@@ -1,0 +1,4 @@
+<!--miniprogram/pages/home.wxml-->
+<text class="title">hello world</text>
+<button size="mini">nihao</button>
+<image src=""></image>
